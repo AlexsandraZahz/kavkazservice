@@ -1,0 +1,3 @@
+flutter run -d emulator-5554
+
+flutter emulators --launch LightPixel
